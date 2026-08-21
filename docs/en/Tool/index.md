@@ -32,6 +32,7 @@
   - [**NameMC**](https://namemc.com/) - 强大的皮肤和玩家ID管理工具。可以查看任意玩家的皮肤历史、曾用名，也可以轻松上传和管理自己的皮肤。
   - [**Minecraft Crafting Guide**](https://www.minecraft-crafting.net/) - 交互式的合成配方查询网站。如果你忘记了某个物品如何合成，这里可以快速找到答案。
   - [**Minecraft Server List**](https://minecraft-server-list.com/) - 寻找新服务器的好去处。可以根据版本、类型（生存、小游戏、创造等）和玩家数量筛选，发现有趣的社区服务器。
+  - [**ServerBuddy**](https://serverbuddy.net/) - 免费的 Java 版与基岩版服务器目录，提供实时状态、当前玩家数量、玩家数量历史、在线率、MOTD 和版本历史。在线服务器可免注册免费提交，网站不采用投票机制或付费展示。
 
 掌握了这些知识，你将不再是一个面对问题手足无措的玩家，而是一个能精准定位、高效解决问题的技术型专家。  
 祝你在 Minecraft 的世界里探索得更深，创造得更远！
